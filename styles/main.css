@@ -158,6 +158,7 @@
 .container .header .left .desc {
   width: 75%;
   font-family: cursive;
+  line-height: 25px;
 }
 .container .header .start {
   width: 250px;
